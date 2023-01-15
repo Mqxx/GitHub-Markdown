@@ -6,7 +6,7 @@ Here are a few markdown additions for GitHub Markdown.
 
 ### Badges
 
-you can use these additional badges to give your makrdown more structure and statement. The badges are always `21px` high and `100px` wide. The SVG always consists of the symbol and the text behind it. You can find the Octicon symbols [here](https://primer.style/octicons/).
+you can use these additional badges to give your makrdown more structure and statement. The badges are always `21px` high and `100px` wide. The SVG consists of the symbol and the text behind it. You can find the Octicon symbols [here](https://primer.style/octicons/).
 
 #### Info Badge
 
