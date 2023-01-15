@@ -12,4 +12,5 @@ you can use these additional badges to give your makrdown more structure and sta
 
 ```
 
-![badge-warning](https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/warning.svg)
+> ![badge-warning](https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/warning.svg)<br>
+> Warning
