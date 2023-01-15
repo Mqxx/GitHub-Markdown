@@ -11,27 +11,42 @@ you can use these additional badges to give your makrdown more structure and sta
 #### Info Badge
 
 ```md
-[badge-info]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/info.svg 'Info'
+[badge-info]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/info.svg 'Info'
 
 > ![badge-info][badge-info]<br>
 > Info
 ```
-[badge-info]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/info.svg 'Info'
+[badge-info]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/info.svg 'Info'
 
 > ![badge-info][badge-info]<br>
 > Info
 
 <br>
 
+#### Issue Badge
+
+```md
+[badge-issue]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/issue.svg 'Issue'
+
+> ![badge-issue][badge-issue]<br>
+> Issue
+```
+[badge-issue]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/issue.svg 'Issue'
+
+> ![badge-issue][badge-issue]<br>
+> Issue
+
+<br>
+
 #### Check Badge
 
 ```md
-[badge-check]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/info.svg 'Check'
+[badge-check]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/check.svg 'Check'
 
 > ![badge-check][badge-check]<br>
 > Check
 ```
-[badge-check]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/check.svg 'Check'
+[badge-check]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/check.svg 'Check'
 
 > ![badge-check][badge-check]<br>
 > Check
@@ -41,12 +56,12 @@ you can use these additional badges to give your makrdown more structure and sta
 #### Warning Badge
 
 ```md
-[badge-warning]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/warning.svg 'Warning'
+[badge-warning]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/warning.svg 'Warning'
 
 > ![badge-warning][badge-warning]<br>
 > Warning
 ```
-[badge-warning]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/warning.svg 'Warning'
+[badge-warning]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/warning.svg 'Warning'
 
 > ![badge-warning][badge-warning]<br>
 > Warning
@@ -56,12 +71,12 @@ you can use these additional badges to give your makrdown more structure and sta
 #### Error Badge
 
 ```md
-[badge-error]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/error.svg 'Error'
+[badge-error]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/error.svg 'Error'
 
 > ![badge-error][badge-error]<br>
 > Error
 ```
-[badge-error]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/error.svg 'Error'
+[badge-error]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/error.svg 'Error'
 
 > ![badge-error][badge-error]<br>
 > Error
