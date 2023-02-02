@@ -51,6 +51,14 @@ you can use these additional badges to give your makrdown more structure and sta
 > ![badge-tip][badge-tip]<br>
 > Tip
 
+Use the following code to dynamically change the `Tip` icon based on user theme:
+```
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/tip.svg">
+ <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/light-theme/tip.svg">
+</picture>
+```
+
 <br>
 
 #### Issue Badge
