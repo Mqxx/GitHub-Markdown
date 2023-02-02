@@ -38,21 +38,6 @@ you can use these additional badges to give your makrdown more structure and sta
 
 <br>
 
-#### Issue Badge
-
-```markdown
-[badge-issue]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/issue.svg 'Issue'
-
-> ![badge-issue][badge-issue]<br>
-> Issue
-```
-[badge-issue]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/issue.svg 'Issue'
-
-> ![badge-issue][badge-issue]<br>
-> Issue
-
-<br>
-
 #### Tip Badge
 
 ```markdown
@@ -65,6 +50,21 @@ you can use these additional badges to give your makrdown more structure and sta
 
 > ![badge-tip][badge-tip]<br>
 > Tip
+
+<br>
+
+#### Issue Badge
+
+```markdown
+[badge-issue]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/issue.svg 'Issue'
+
+> ![badge-issue][badge-issue]<br>
+> Issue
+```
+[badge-issue]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/issue.svg 'Issue'
+
+> ![badge-issue][badge-issue]<br>
+> Issue
 
 <br>
 
