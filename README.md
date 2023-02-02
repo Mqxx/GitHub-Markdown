@@ -10,7 +10,7 @@ you can use these additional badges to give your makrdown more structure and sta
 
 #### Info Badge
 
-```md
+```markdown
 [badge-info]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/info.svg 'Info'
 
 > ![badge-info][badge-info]<br>
@@ -25,7 +25,7 @@ you can use these additional badges to give your makrdown more structure and sta
 
 #### Issue Badge
 
-```md
+```markdown
 [badge-issue]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/issue.svg 'Issue'
 
 > ![badge-issue][badge-issue]<br>
@@ -40,7 +40,7 @@ you can use these additional badges to give your makrdown more structure and sta
 
 #### Check Badge
 
-```md
+```markdown
 [badge-check]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/check.svg 'Check'
 
 > ![badge-check][badge-check]<br>
@@ -55,7 +55,7 @@ you can use these additional badges to give your makrdown more structure and sta
 
 #### Warning Badge
 
-```md
+```markdown
 [badge-warning]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/warning.svg 'Warning'
 
 > ![badge-warning][badge-warning]<br>
@@ -70,7 +70,7 @@ you can use these additional badges to give your makrdown more structure and sta
 
 #### Error Badge
 
-```md
+```markdown
 [badge-error]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/error.svg 'Error'
 
 > ![badge-error][badge-error]<br>
