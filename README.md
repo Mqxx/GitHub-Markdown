@@ -98,6 +98,20 @@ you can use these additional badges to give your makrdown more structure and sta
 
 <br>
 
+#### Danger Badge
+
+```markdown
+[badge-danger]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/danger.svg 'Danger'
+
+> ![badge-danger][badge-danger]<br>
+> Danger
+```
+[badge-danger]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/danger.svg 'Danger'
+
+> ![badge-danger][badge-danger]<br>
+> Danger
+
+<br>
 ---
 
 # More coming soon
