@@ -44,7 +44,7 @@ you can use these additional badges to give your makrdown more structure and sta
 [badge-tip]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/tip.svg 'Tip'
 
 > ![badge-tip][badge-tip]<br>
-> Issue
+> Tip
 ```
 [badge-tip]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/tip.svg 'Tip'
 
