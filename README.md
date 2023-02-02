@@ -23,6 +23,21 @@ you can use these additional badges to give your makrdown more structure and sta
 
 <br>
 
+#### Example Badge
+
+```markdown
+[badge-info]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/example.svg 'Example'
+
+> ![badge-example][badge-example]<br>
+> Example
+```
+[badge-example]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/example.svg 'Example'
+
+> ![badge-example][badge-example]<br>
+> Example
+
+<br>
+
 #### Issue Badge
 
 ```markdown
