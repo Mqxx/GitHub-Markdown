@@ -68,18 +68,18 @@ you can use these additional badges to give your makrdown more structure and sta
 
 <br>
 
-#### Check Badge
+#### Success Badge
 
 ```markdown
-[badge-check]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/check.svg 'Check'
+[badge-success]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/success.svg 'Success'
 
-> ![badge-check][badge-check]<br>
-> Check
+> ![badge-success][badge-success]<br>
+> Success
 ```
-[badge-check]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/check.svg 'Check'
+[badge-success]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/success.svg 'Success'
 
-> ![badge-check][badge-check]<br>
-> Check
+> ![badge-success][badge-success]<br>
+> Success
 
 <br>
 
