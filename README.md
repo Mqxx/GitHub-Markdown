@@ -11,14 +11,16 @@ you can use these additional badges to give your makrdown more structure and sta
 #### Info Badge
 
 ```markdown
-[badge-info]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/info.svg 'Info'
-
-> ![badge-info][badge-info]<br>
+> <picture>
+>   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/light-theme/info.svg">
+>   <img alt="Info" src="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/info.svg">
+> </picture><br>
 > Info
 ```
-[badge-info]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/info.svg 'Info'
-
-> ![badge-info][badge-info]<br>
+> <picture>
+>   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/light-theme/info.svg">
+>   <img alt="Info" src="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/info.svg">
+> </picture><br>
 > Info
 
 <br>
@@ -26,14 +28,16 @@ you can use these additional badges to give your makrdown more structure and sta
 #### Example Badge
 
 ```markdown
-[badge-info]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/example.svg 'Example'
-
-> ![badge-example][badge-example]<br>
+> <picture>
+>   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/light-theme/example.svg">
+>   <img alt="Example" src="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/example.svg">
+> </picture><br>
 > Example
 ```
-[badge-example]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/example.svg 'Example'
-
-> ![badge-example][badge-example]<br>
+> <picture>
+>   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/light-theme/example.svg">
+>   <img alt="Example" src="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/example.svg">
+> </picture><br>
 > Example
 
 <br>
@@ -41,14 +45,16 @@ you can use these additional badges to give your makrdown more structure and sta
 #### Tip Badge
 
 ```markdown
-[badge-tip]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/tip.svg 'Tip'
-
-> ![badge-tip][badge-tip]<br>
+> <picture>
+>   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/light-theme/tip.svg">
+>   <img alt="Tip" src="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/tip.svg">
+> </picture><br>
 > Tip
 ```
-[badge-tip]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/tip.svg 'Tip'
-
-> ![badge-tip][badge-tip]<br>
+> <picture>
+>   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/light-theme/tip.svg">
+>   <img alt="Tip" src="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/tip.svg">
+> </picture><br>
 > Tip
 
 <br>
@@ -56,14 +62,16 @@ you can use these additional badges to give your makrdown more structure and sta
 #### Issue Badge
 
 ```markdown
-[badge-issue]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/issue.svg 'Issue'
-
-> ![badge-issue][badge-issue]<br>
+> <picture>
+>   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/light-theme/issue.svg">
+>   <img alt="Issue" src="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/issue.svg">
+> </picture><br>
 > Issue
 ```
-[badge-issue]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/issue.svg 'Issue'
-
-> ![badge-issue][badge-issue]<br>
+> <picture>
+>   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/light-theme/issue.svg">
+>   <img alt="Issue" src="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/issue.svg">
+> </picture><br>
 > Issue
 
 <br>
@@ -71,14 +79,16 @@ you can use these additional badges to give your makrdown more structure and sta
 #### Success Badge
 
 ```markdown
-[badge-success]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/success.svg 'Success'
-
-> ![badge-success][badge-success]<br>
+> <picture>
+>   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/light-theme/success.svg">
+>   <img alt="Success" src="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/success.svg">
+> </picture><br>
 > Success
 ```
-[badge-success]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/success.svg 'Success'
-
-> ![badge-success][badge-success]<br>
+> <picture>
+>   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/light-theme/success.svg">
+>   <img alt="Success" src="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/success.svg">
+> </picture><br>
 > Success
 
 <br>
@@ -86,14 +96,16 @@ you can use these additional badges to give your makrdown more structure and sta
 #### Warning Badge
 
 ```markdown
-[badge-warning]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/warning.svg 'Warning'
-
-> ![badge-warning][badge-warning]<br>
+> <picture>
+>   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/light-theme/warning.svg">
+>   <img alt="Warning" src="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/warning.svg">
+> </picture><br>
 > Warning
 ```
-[badge-warning]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/warning.svg 'Warning'
-
-> ![badge-warning][badge-warning]<br>
+> <picture>
+>   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/light-theme/warning.svg">
+>   <img alt="Warning" src="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/warning.svg">
+> </picture><br>
 > Warning
 
 <br>
@@ -101,14 +113,16 @@ you can use these additional badges to give your makrdown more structure and sta
 #### Error Badge
 
 ```markdown
-[badge-error]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/error.svg 'Error'
-
-> ![badge-error][badge-error]<br>
+> <picture>
+>   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/light-theme/error.svg">
+>   <img alt="Error" src="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/error.svg">
+> </picture><br>
 > Error
 ```
-[badge-error]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/error.svg 'Error'
-
-> ![badge-error][badge-error]<br>
+> <picture>
+>   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/light-theme/error.svg">
+>   <img alt="Error" src="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/error.svg">
+> </picture><br>
 > Error
 
 <br>
@@ -116,14 +130,16 @@ you can use these additional badges to give your makrdown more structure and sta
 #### Danger Badge
 
 ```markdown
-[badge-danger]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/danger.svg 'Danger'
-
-> ![badge-danger][badge-danger]<br>
+> <picture>
+>   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/light-theme/danger.svg">
+>   <img alt="Danger" src="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/danger.svg">
+> </picture><br>
 > Danger
 ```
-[badge-danger]: https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/danger.svg 'Danger'
-
-> ![badge-danger][badge-danger]<br>
+> <picture>
+>   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/light-theme/danger.svg">
+>   <img alt="Danger" src="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/danger.svg">
+> </picture><br>
 > Danger
 
 <br>
