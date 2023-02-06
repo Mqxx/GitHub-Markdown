@@ -25,6 +25,18 @@ you can use these additional badges to give your makrdown more structure and sta
 
 <br>
 
+
+#### Note Badge
+
+```markdown
+> **Note**<br>
+> Note
+```
+> **Note**<br>
+> Note
+
+<br>
+
 #### Example Badge
 
 ```markdown
@@ -94,6 +106,17 @@ you can use these additional badges to give your makrdown more structure and sta
 <br>
 
 #### Warning Badge
+
+
+```markdown
+> **Warning**<br>
+> Warning
+```
+> **Warning**<br>
+> Warning
+
+
+or
 
 ```markdown
 > <picture>
