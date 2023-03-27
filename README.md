@@ -181,4 +181,12 @@ You can also create linebreaks inside your tooltip by using the `&#10;` HTML seq
 ```
 [Example text.](## 'Tooltip with&#10;linebreak')
 
+<br>
 
+### Inside Table
+
+Like I said, for some reason, Markdown links that come directly after a bracket are invisible within a table.
+
+   A   |   B  
+:-----:|:-----:
+ [Hover](## 'Hover Text') | Text
