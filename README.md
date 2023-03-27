@@ -189,4 +189,4 @@ Like I said, for some reason, Markdown links that come directly after a bracket 
 
    A   |   B  
 :-----:|:-----:
- [Hover](## 'Hover Text') | Text
+ (Info)[Hover](## 'Hover Text') | Text
