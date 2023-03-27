@@ -169,4 +169,11 @@ This is how you can add your own tooltips or hover texts. For some reason, Markd
 ```
 [This is an example text which looks like a link, but nothing happens when you click on it.](## 'And this is the hover text.')
 
+You can also create linebreaks inside your tooltip by using the `&#10;` HTML sequence.
+
+```markdown
+[Example text.](## 'Tooltip with&#10;linebreak')
+```
+[Example text.](## 'Tooltip with&#10;linebreak')
+
 
