@@ -189,6 +189,6 @@ Like I said, for some reason, Markdown links that come directly after a bracket 
 
 |       A       |   B   |
 |:-------------:|:-----:|
-| (info)[*][*1] | Text  |
+| (info)[*][1]  | Text  |
 
-[*1]: ## 'Hover text'
+[1]: ## 'Hover Info'
