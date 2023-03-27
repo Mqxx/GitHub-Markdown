@@ -188,18 +188,22 @@ You can also create linebreaks inside your tooltip by using the `&#10;` HTML seq
 You can also use tooltips inside a table, like so.
 
 ```markdown
-|      A      |   B   |
-|:-----------:|:-----:|
-| Info[*][1]  | Text  |
+|      A      |      B      |
+|:-----------:|:-----------:|
+| Info[*][1]  | Text[*][2]  |
 
 [1]: ## 'Hover Info'
+[2]: ## 'Hover Text'
+
 ```
 
-|      A      |   B   |
-|:-----------:|:-----:|
-| Info[*][1]  | Text  |
+|      A      |      B      |
+|:-----------:|:-----------:|
+| Info[*][1]  | Text[*][2]  |
 
 [1]: ## 'Hover Info'
+[2]: ## 'Hover Text'
+
 
 <br>
 <br>
