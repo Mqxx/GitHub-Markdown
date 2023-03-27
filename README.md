@@ -165,8 +165,8 @@ You can use these additional badges to give your makrdown more structure and sta
 This is how you can add your own tooltips or hover texts. For some reason, Markdown links that come directly after a bracket are invisible within a table. You can avoid this by linking directly to your file. The goal is to have no click effect on the tooltips. They should only look like a link so that you can more easily find the tooltip.
 
 ```markdown
-This is an example [text](## 'And this is the hover text.')
+[This is an example text which looks like a link, but nothing happens when you click on it.](## 'And this is the hover text.')
 ```
-This is an example [text](## 'And this is the hover text.')
+[This is an example text which looks like a link, but nothing happens when you click on it.](## 'And this is the hover text.')
 
 
