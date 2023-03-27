@@ -162,7 +162,7 @@ You can use these additional badges to give your makrdown more structure and sta
 
 ## Tooltips
 
-This is how you can add your own tooltips or hover texts. For some reason, Markdown links that come directly after a bracket are invisible within a table. You can avoid this by linking directly to your file. The goal is to have no click effect on the tooltips. They should only look like a link so that you can more easily find the tooltip. You can create a tooltip by using two `##` instead of an actual link.
+This is how you can add your own tooltips or hover texts. For some reason, Markdown links that come directly after a bracket are sometimes invisible within a table. You can avoid this by linking directly to your file (For example insted of `##` use `README.md##`). The goal is to have no click effect on the tooltips. They should only look like a link so that you can more easily find the tooltip. You can create a tooltip by using two `##` instead of an actual link.
 
 ### Basic
 ```markdown
@@ -185,7 +185,7 @@ You can also create linebreaks inside your tooltip by using the `&#10;` HTML seq
 
 ### Inside Table
 
-Like I said, for some reason, Markdown links that come directly after a bracket are invisible within a table.
+You can also use tooltips inside a table, like so.
 
 |       A       |   B   |
 |:-------------:|:-----:|
