@@ -187,6 +187,7 @@ You can also create linebreaks inside your tooltip by using the `&#10;` HTML seq
 
 Like I said, for some reason, Markdown links that come directly after a bracket are invisible within a table.
 
-   A   |   B  
-:-----:|:-----:
- (Info)[Hover](## 'Hover Text') | Text
+|       A       |   B   |
+|:-------------:|:-----:|
+| (info)[*][*1] | Text  |
+[*1]: ## 'Hover text'
