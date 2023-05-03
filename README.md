@@ -166,9 +166,9 @@ This is how you can add your own tooltips or hover texts. You can create a toolt
 
 ### Basic
 ```markdown
-[This is an example text which looks like a link, but nothing happens when you click on it.](## 'And this is the hover text.')
+[This is an example text that looks like a link, but nothing happens when you click on it.](## 'And this is the hover text.')
 ```
-[This is an example text which looks like a link, but nothing happens when you click on it.](## 'And this is the hover text.')
+[This is an example text that looks like a link, but nothing happens when you click on it.](## 'And this is the hover text.')
 
 <br>
 
