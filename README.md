@@ -1,6 +1,6 @@
 # GitHub Markdown
 
-Here are a few markdown additions for GitHub Markdown.
+Here are a few markdown additions and hints for GitHub Markdown.
 
 ## Blockquotes
 
