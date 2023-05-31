@@ -25,8 +25,6 @@ You can use these additional badges to give your makrdown more structure and sta
 >
 > Info
 
-<br>
-
 #### Example Badge
 
 ```markdown
@@ -43,8 +41,6 @@ You can use these additional badges to give your makrdown more structure and sta
 > </picture><br>
 >
 > Example
-
-<br>
 
 #### Tip Badge
 
@@ -63,8 +59,6 @@ You can use these additional badges to give your makrdown more structure and sta
 >
 > Tip
 
-<br>
-
 #### Issue Badge
 
 ```markdown
@@ -81,8 +75,6 @@ You can use these additional badges to give your makrdown more structure and sta
 > </picture><br>
 >
 > Issue
-
-<br>
 
 #### Success Badge
 
@@ -101,8 +93,6 @@ You can use these additional badges to give your makrdown more structure and sta
 >
 > Success
 
-<br>
-
 #### Solution Badge
 
 ```markdown
@@ -119,8 +109,6 @@ You can use these additional badges to give your makrdown more structure and sta
 > </picture><br>
 >
 > Solution
-
-<br>
 
 #### Check Badge
 
@@ -139,8 +127,6 @@ You can use these additional badges to give your makrdown more structure and sta
 >
 > Check
 
-<br>
-
 #### Complete Badge
 
 ```markdown
@@ -157,8 +143,6 @@ You can use these additional badges to give your makrdown more structure and sta
 > </picture><br>
 >
 > Complete
-
-<br>
 
 #### Warning Badge
 
@@ -177,8 +161,6 @@ You can use these additional badges to give your makrdown more structure and sta
 >
 > Warning
 
-<br>
-
 #### Error Badge
 
 ```markdown
@@ -196,8 +178,6 @@ You can use these additional badges to give your makrdown more structure and sta
 >
 > Error
 
-<br>
-
 #### Danger Badge
 
 ```markdown
@@ -214,8 +194,6 @@ You can use these additional badges to give your makrdown more structure and sta
 > </picture><br>
 >
 > Danger
-
-<br>
 
 ## Tooltips
 
