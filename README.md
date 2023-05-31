@@ -225,7 +225,6 @@ This is how you can add your own tooltips or hover texts. You can create a toolt
 <br>
 
 ### Linebreaks
-
 You can also create linebreaks inside your tooltip by using the `&#10;` HTML sequence.
 
 ```markdown
@@ -236,7 +235,6 @@ You can also create linebreaks inside your tooltip by using the `&#10;` HTML seq
 <br>
 
 ### Inside Table
-
 You can also use tooltips inside a table, like so.
 
 ```markdown
@@ -256,7 +254,27 @@ You can also use tooltips inside a table, like so.
 [1]: ## 'Hover Info'
 [2]: ## 'Hover Text'
 
+## Keybindings/Keyinserts
+You can insert keyboard keys into your markdown as well. To do that use the `<kbd>` and `</kbd>` tag.
 
+### Basic
+```markdown
+Use <kbd>Ctrl</kbd>+<kbd>S</kbd> to save your file.
+```
+
+Use <kbd>Ctrl</kbd>+<kbd>S</kbd> to save your file.
+
+### Nesting
+[Nesting](https://en.wikipedia.org/wiki/Nesting_(computing) 'Nesting') is also possible.
+
+```markdown
+Hold <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd></kbd> and press <kbd>A</kbd> to select all text.
+```
+
+Hold <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd></kbd> and press <kbd>A</kbd> to select all text.
+
+<br>
+<br>
 <br>
 <br>
 <br>
