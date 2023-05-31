@@ -122,8 +122,6 @@ You can use these additional badges to give your makrdown more structure and sta
 
 <br>
 
-<br>
-
 #### Check Badge
 
 ```markdown
@@ -159,6 +157,8 @@ You can use these additional badges to give your makrdown more structure and sta
 > </picture><br>
 >
 > Complete
+
+<br>
 
 #### Warning Badge
 
