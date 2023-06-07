@@ -1,5 +1,10 @@
 # GitHub Markdown
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mqxx/GitHub-Markdown/assets/62719703/488531d6-da4f-451c-8849-bb828e8ba591" width="100px" align="right">
+  <img alt="GitHub" src="https://github.com/Mqxx/GitHub-Markdown/assets/62719703/69ad6244-1b9b-4bde-9f78-4775bf5850a2" width="100px" align="right">
+</picture>
+
 Here are a few markdown additions and hints for GitHub Markdown.
 
 Also check out [this](https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf96807f2 '@seanh/html_tags_you_can_use_on_github.md') Gist for mor information about GitHub markdown.
