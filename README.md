@@ -1,8 +1,8 @@
 # GitHub Markdown
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mqxx/GitHub-Markdown/assets/62719703/488531d6-da4f-451c-8849-bb828e8ba591" width="100px" align="right">
-  <img alt="GitHub" src="https://github.com/Mqxx/GitHub-Markdown/assets/62719703/69ad6244-1b9b-4bde-9f78-4775bf5850a2" width="100px" align="right">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mqxx/GitHub-Markdown/assets/62719703/0dc0020a-8843-4d5d-adc0-ce133e1b0573" width="100px" align="right">
+  <img alt="GitHub" src="https://github.com/Mqxx/GitHub-Markdown/assets/62719703/768f9cf2-2917-4349-875c-b47fc008301b" width="100px" align="right">
 </picture>
 
 Here are a few markdown additions and hints for GitHub Markdown.
