@@ -11,7 +11,7 @@ Also check out [this](https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf968
 
 ## Blockquotes
 
-[Implemented by GitHub](https://github.com/orgs/community/discussions/16925)
+[Implemented by GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts)
 
 ### Badges
 
